@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.gamehub.mini_arcade_hub",
+      "sha256_cert_fingerprints": [
+        "14:6D:E9:01:C2:22:98:D2:0A:9A:89:15:37:34:6A:9C:2B:A3:85:86:F8:78:B1:85:A4:B6:BA:55:04:88:5A:F3"
+      ]
+    }
+  }
+]
+

@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "TEAMID123.com.gamehub.miniArcadeHub",
+        "paths": ["/join", "/join/*", "/lobby/*"]
+      }
+    ]
+  }
+}
+

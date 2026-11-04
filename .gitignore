@@ -1,0 +1,68 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Visual Studio Code related
+.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/build/
+
+# Android / iOS Local machine configs
+android/local.properties
+ios/Flutter/Generated.xcconfig
+ios/Flutter/flutter_export_environment.sh
+ios/Flutter/ephemeral/
+ios/Runner/GeneratedPluginRegistrant.*
+android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java
+
+# Credentials and secrets
+.env*
+*.key
+*.keystore
+*.jks
+*.p8
+*.p12
+*.mobileprovision
+*test_auth.json
+*credentials.json
+*serviceAccountKey*.json
+
+# Firebase Hosting & Private Configuration (Requested)
+firebase.json
+.firebaserc
+.firebase/
+firestore.rules
+firestore.indexes.json
+database.rules.json
+firebase-debug.log*
+
+# Google Search Console, SEO verification & Crawlers (Requested)
+google*.html
+*google956d2d263c33218b*
+sitemap.xml
+**/sitemap.xml
+robots.txt
+**/robots.txt
